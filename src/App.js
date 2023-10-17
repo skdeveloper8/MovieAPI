@@ -29,7 +29,7 @@ function App() {
   }, [movie]);
   return (
     <div className='app' >
-
+        <h2>Search Any Movie Name Here</h2>
       <input className='Search' type="text"
         placeholder='Search Here'
         // name='movie'
